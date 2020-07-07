@@ -1,4 +1,7 @@
 # Node.js Chat Application
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MajorTom3K1M/node-chat-app/master/example/ui-example1.png">
+</p>
 This is simple node.js chat application powered by Express and Socket.io.
 
 ### Built with
@@ -21,3 +24,8 @@ This is simple node.js chat application powered by Express and Socket.io.
 
   Now open this URL in your browser:
 <pre><code><a>http://localhost:3000/</a></code></pre>
+
+### Chat Room UI Example
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MajorTom3K1M/node-chat-app/master/example/ui-example2.png">
+</p>
